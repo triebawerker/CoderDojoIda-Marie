@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+	<head>
+ 		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+ 		<title>Titel: Alles über Pferde</title>
+ 		<style type="text/css">
+ 		.rahmen{
+			padding:20px; 			
+ 			width:700px;
+ 		 	background-color:#350033;
+ 			margin:20px auto; 		 	
+ 		 	}
+ 		.kasten{border:2px black solid;
+ 		background-color:#463154;
+ 		margin-top:20px;
+ 		}
+ 		.menue{border:2px black solid;
+ 		color:white}
+ 		h1{color:purple;}
+ 		li{
+ 			list-style: none;
+ 			display: inline;
+ 			padding-right: 65px;
+ 			}
+ 		body{}
+ 		</style>
+	</head>
+	<body>
+		<div class="rahmen">
+			<header>
+				<h1>Alles über Pferde</h1>
+				<div class="menue">
+				<ul>
+				<li>Home</li>	
+				<li>Anatomie</li>
+				<li>Rassen</li>
+				<li>Rund ums Pferd</li>
+				<li>Reiterhöfe</li>
+				</ul>	
+				</div>
+			</header>
+			<section>
+				<div class="kasten">
+					Home			
+           	</div>
+			</section>
+		</div>
+	</body>
+</html>
+

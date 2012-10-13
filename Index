@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+	<head>
+ 		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+ 		<title>Titel: Alles über Pferde</title>
+ 		<style type="text/css">
+ 		.menue{border:2px black solid;
+ 		color:white}
+ 		h1{color:purple;}
+ 		body{background-color:#350033;}
+ 		</style>
+	</head>
+	<body>
+	
+	<header>
+	<h1>Alles über Pferde</h1>
+	<div class="menue">
+	Aufbau
+	Rassen
+	Punkt 3
+	Punkt 4
+	</div>
+	</header>
+	</body>
+</html>
+
